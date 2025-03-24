@@ -1,5 +1,4 @@
-[![GH](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif)] 
-# 💫 Welcome to my GitHub
+![GH](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif) Welcome to my GitHub
 🌱 I'm a Software Engineer with a passion for building useful applications and business-related solutions. I thrive on solving bugs, tackling complex code challenges, and optimizing daily tasks. 
 I'm currently learning full-stack development in JavaScript with React and Express. When I'm not coding, I love frolicking with my cat Dusty, and losing my Valorant game.
 
