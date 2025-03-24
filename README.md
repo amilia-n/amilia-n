@@ -10,8 +10,6 @@ I'm currently learning full-stack development in JavaScript with React and Expre
 🐱 Outside of Coding  
 When I'm not coding, I love frolicking with my cat, Dusty, and losing my Valorant games.  
 
-🌐 Let's Connect: https://linkedin.com/in/amilia-n
-
 ![](https://github-readme-stats.vercel.app/api?username=amilia-n&theme=rose&hide_border=false&include_all_commits=false&count_private=false) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=amilia-n&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amilia-n&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
