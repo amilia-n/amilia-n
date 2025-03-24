@@ -11,9 +11,7 @@ I'm currently learning full-stack development in JavaScript with React and Expre
 🐱 Outside of Coding  
 When I'm not coding, I love frolicking with my cat, Dusty, and losing my Valorant games.  
 
-## 🌐 Socials:
-<img src="[https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)" alt="LinkedIn" width="50" height="50"/>
-![Let's Connect!](https://linkedin.com/in/amilia-n)
+🌐 Let's Connect: https://linkedin.com/in/amilia-n
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amilia-n&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
