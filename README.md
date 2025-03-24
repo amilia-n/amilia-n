@@ -13,12 +13,12 @@ When I'm not coding, I love frolicking with my cat, Dusty, and losing my Valoran
 🌐 Let's Connect: https://linkedin.com/in/amilia-n
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amilia-n&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=amilia-n&theme=rose&hide_border=false&include_all_commits=false&count_private=false) 
+<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400"> <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=amilia-n&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amilia-n&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=amilia-n&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" alt="Cool Cat" width="90" height="70"/> Tech Stack:
 <p align="left">
@@ -31,4 +31,3 @@ When I'm not coding, I love frolicking with my cat, Dusty, and losing my Valoran
   <img src="https://private-user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI4NTY5NTIsIm5iZiI6MTc0Mjg1NjY1MiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0NDEtMWE3OTdmNDYtZWZlNC00MWU2LTllNzUtNTMwM2UxYmJjYmZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI0VDIyNTA1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5NTcwNDcxMjUyNmM4NmE3NzQ2NjU2YmE1YjdkMTRkMDU5YTZlYTM2OGZjMDdmNTJkNTExYmIyZjJhZjZjMDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.x-FyJgzJ3cVvCfbg_VNoLCYABCQIpfJIv9YHiRrHra8" alt="Express.js" width="50" height="50"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400">
