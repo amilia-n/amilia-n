@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="50" height="50"/> Welcome to My GitHub! </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="50" height="50"/> Welcome to My GitHub! <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="50" height="50"/> </p>
 
 🌱 About Me  
 I'm a Software Engineer with a passion for building useful applications and business-related solutions. I thrive on solving bugs, tackling complex code challenges, and optimizing daily tasks.  
