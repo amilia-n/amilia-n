@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on: weekly bootcamp projects!<br><br>🌱 I’m currently learning: Full-Stack web dev with React and Node.js<br><br>💬 Ask me about: My projects, my hobbies, my learning, or my cat!<br><br>📫 How to reach me: amilian.work@gmail.com<br><br>⚡ Fun fact: My cat's name is Dusty
+[![GH](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif)] 
+# 💫 Welcome to my GitHub
+🌱 I'm a Software Engineer with a passion for building useful applications and business-related solutions. I thrive on solving bugs, tackling complex code challenges, and optimizing daily tasks. 
+I'm currently learning full-stack development in JavaScript with React and Express. When I'm not coding, I love frolicking with my cat Dusty, and losing my Valorant game.
 
 
 ## 🌐 Socials:
