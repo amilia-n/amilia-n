@@ -20,8 +20,7 @@ When I'm not coding, I love frolicking with my cat, Dusty, and losing my Valoran
 [![](https://visitcount.itsvg.in/api?id=amilia-n&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 💻 Tech Stack:
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" alt="Cool Cat" width="50" height="50"/>
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" alt="Cool Cat" width="50" height="50"/> Tech Stack:
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JavaScript" width="50" height="50"/>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" alt="HTML" width="50" height="50"/>
