@@ -30,7 +30,7 @@ When I'm not coding, I love frolicking with my cat, Dusty, and losing my Valoran
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="Bootstrap" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="React" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="NodeJS" width="50" height="50"/>
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" alt="Express.js" width="50" height="50"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI4NTY5NTIsIm5iZiI6MTc0Mjg1NjY1MiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0NDEtMWE3OTdmNDYtZWZlNC00MWU2LTllNzUtNTMwM2UxYmJjYmZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI0VDIyNTA1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5NTcwNDcxMjUyNmM4NmE3NzQ2NjU2YmE1YjdkMTRkMDU5YTZlYTM2OGZjMDdmNTJkNTExYmIyZjJhZjZjMDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.x-FyJgzJ3cVvCfbg_VNoLCYABCQIpfJIv9YHiRrHra8" alt="Express.js" width="50" height="50"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="100" height="50"/>
 </p>
 
