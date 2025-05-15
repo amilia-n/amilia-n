@@ -2,19 +2,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="50" height="50"/> <strong> Welcome to My GitHub! </strong> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="50" height="50"/> </p>
 
 🌱 About Me  
-I am a Software Engineer specializing in the PERN stack with a passion for building useful applications and business-related solutions. I thrive on solving bugs, tackling complex code challenges, and optimizing daily tasks.  
-
-💻 What I'm Working On  
-I'm currently learning full-stack development in JavaScript with React and Express.  
-
-🐱 Outside of Coding  
-When I'm not coding, I love frolicking with my cat, Dusty, and losing my Valorant games.  
+I am a Software Engineer specializing in PERN stack with a passion for building business-related solutions. 
+💻  WELCOME TO MY FUN PROJECTS  💻     
 
 ![](https://github-readme-stats.vercel.app/api?username=amilia-n&theme=rose&hide_border=false&include_all_commits=false&count_private=false) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=amilia-n&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amilia-n&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 [![](https://visitcount.itsvg.in/api?id=amilia-n&icon=0&color=0)](https://visitcount.itsvg.in)
-<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400">
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" alt="Cool Cat" width="90" height="70"/> Tech Stack:
 <p align="left">
