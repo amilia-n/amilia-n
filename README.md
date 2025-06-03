@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="30" height="30"/> <strong> WELCOME!!! </strong> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="30" height="30"/>
 
 My name is Ami and I am a creative fullstack software engineer and web developer specializing in PERN stack with a background in law. <br>
-I recently graduated from Techtonica's fulltime program with six months of project-building experience in May of 2025. <br>
+I recently graduated from Techtonica's fulltime program with six months of project-building experience. <br>
 I'm really passionate about creating personalized solutions for small businesses and video game development, and I'm so excited that you're here! <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=amilia-n&theme=rose&hide_border=false&include_all_commits=false&count_private=false) <br/>
