@@ -6,7 +6,6 @@ I am a Software Engineer specializing in PERN stack with a passion for building 
 
 ![](https://github-readme-stats.vercel.app/api?username=amilia-n&theme=rose&hide_border=false&include_all_commits=false&count_private=false) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=amilia-n&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amilia-n&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 [![](https://visitcount.itsvg.in/api?id=amilia-n&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" alt="Cool Cat" width="90" height="70"/> Tech Stack:
