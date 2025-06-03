@@ -1,8 +1,8 @@
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="50" height="50"/> <strong> Welcome to Ami's GitHub! </strong> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="50" height="50"/> <strong> WELCOME! </strong> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="30" height="30"/>
 
-🌱 About Me  
-I am a creative fullstack software engineer and web developer specializing in PERN stack!
-I'm really passionate about creating personalized solutions for small businesses and video game development! 
+My name is Ami and I am a creative fullstack software engineer and web developer specializing in PERN stack.
+I recently graduated from Techtonica's fulltime program with six months of project-building experience. 
+I'm really passionate about creating personalized solutions for small businesses and video game development, and I'm excited for you to take a look around!
 
 ![](https://github-readme-stats.vercel.app/api?username=amilia-n&theme=rose&hide_border=false&include_all_commits=false&count_private=false) <br/>
 
