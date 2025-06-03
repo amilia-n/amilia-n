@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="50" height="50"/> <strong> Welcome to My GitHub! </strong> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="50" height="50"/> </p>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="50" height="50"/> <strong> Welcome to Ami's GitHub! </strong> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="50" height="50"/> </p>
 
 🌱 About Me  
-I am a Software Engineer specializing in PERN stack with a passion for building business-related solutions.    
+I am a creative fullstack software engineer specializing in PERN stack with a passion for building business-related solutions.   
 
 ![](https://github-readme-stats.vercel.app/api?username=amilia-n&theme=rose&hide_border=false&include_all_commits=false&count_private=false) <br/>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" alt="Cool Cat" width="80" height="60"/> Tech Stack:
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" alt="Cool Cat" width="70" height="50"/> My Tech Stack:
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JavaScript" width="30" height="30"/>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" alt="HTML" width="30" height="30"/>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" alt="CSS" width="30" height="30"/>
