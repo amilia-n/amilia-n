@@ -8,6 +8,7 @@ I graduated from a full-time coding bootcamp in May of 2025 and now work at a st
   &nbsp;&nbsp;★&nbsp;&nbsp;Building personalized, data-driven tools for small businesses <br />
   &nbsp;&nbsp;★&nbsp;&nbsp;Exploring video game development and interactive experiences <br />
   &nbsp;&nbsp;★&nbsp;&nbsp;Creating end-to-end full-stack web applications <br />
+  &nbsp;&nbsp;★&nbsp;&nbsp;Any legal topics!! Especially in tech <br />
 </p>
 
 <p align="center">
