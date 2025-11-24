@@ -3,10 +3,12 @@
 I'm a creative full-stack software engineer and web developer with a background in law.  
 I graduated from a full-time coding bootcamp in May 2025 and now work at a startup as a frontend engineer.
 
-I’m passionate about: <br />
-$~~~~~$ ★ $~~~~~$ Building personalized, data-driven tools for small businesses <br />
-$~~~~~$ ★ $~~~~~$ Exploring video game development and interactive experiences <br />
-$~~~~~$ ★ $~~~~~$ Creating end to end full-stack web applications <br />
+<p>
+  I’m passionate about:<br />
+  &nbsp;&nbsp;★&nbsp;&nbsp;Building personalized, data-driven tools for small businesses <br />
+  &nbsp;&nbsp;★&nbsp;&nbsp;Exploring video game development and interactive experiences <br />
+  &nbsp;&nbsp;★&nbsp;&nbsp;Creating end-to-end full-stack web applications <br />
+</p>
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" 
