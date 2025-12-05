@@ -23,9 +23,7 @@ I graduated from a full-time coding bootcamp in May of 2025, and now work at a s
   </a>
 </p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=amilian&theme=rose&hide_border=false&include_all_commits=false&count_private=false" alt="My Stats" />
-  </p>
+
 
   <p align="center">
     Thanks for stopping by — feel free to explore my projects and reach out! 💌
